@@ -1,5 +1,4 @@
-//your JS code here. If required.
- <script>
+<script>
     // Get the input element by its id
     const inputField = document.getElementById('fname');
     
