@@ -1,4 +1,4 @@
-<script>
+
     // Get the input element by its id
     const inputField = document.getElementById('fname');
     
@@ -8,4 +8,3 @@
       // Convert the input value to uppercase
       this.value = this.value.toUpperCase();
     });
-  </script>
